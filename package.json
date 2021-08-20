@@ -1,0 +1,53 @@
+{
+  "name": "loyers",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.1.10",
+    "@types/d3": "^6.7.5",
+    "@types/d3-array": "^2.12.3",
+    "@types/d3-geo": "^2.0.3",
+    "@types/jest": "^26.0.24",
+    "@types/node": "^12.20.19",
+    "@types/react": "^17.0.18",
+    "@types/react-dom": "^17.0.9",
+    "d3": "^6.7.0",
+    "d3-array": "^2.12.1",
+    "d3-geo": "^2.0.2",
+    "d3-geo-projection": "^3.0.0",
+    "jspdf": "^2.3.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}

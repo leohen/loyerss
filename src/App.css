@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+
+table, th, td {
+  border: 1px solid hsl(0, 100%, 37%);
+  margin-left: auto;
+  margin-right: auto;
+}
